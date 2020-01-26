@@ -6,6 +6,8 @@ public class Main implements Dog, Cat{
 		Main main = new Main();
 		main.crying();
 		main.show();
+		main.one();
+		main.two();
 		
 	}
 
